@@ -1,36 +1,70 @@
-# 🏅 Power BI Dashboard - Olympics Project
+# 🏅 Olympics Power BI Dashboard
 
-## 📌 Overview / Objective
-This Power BI project visualizes and analyzes data from the Olympic Games to uncover trends and patterns in athlete performance, medal distribution, and country-wise dominance over time.
+## 📌 Project Overview
 
-The objective is to gain valuable insights from historical Olympic data and present it in an interactive, easy-to-understand dashboard format using Power BI.
+The *Olympics Power BI Dashboard* is an interactive data visualization project built to analyze historical Olympic Games data. It reveals key insights into athlete performance, medal distribution, gender participation, and country-wise achievements across various Olympic editions.
+
+The primary goal of this project is to demonstrate how raw sports data can be transformed into meaningful and actionable insights using business intelligence tools.
+
+---
 
 ## 📂 Data Source
-- Public Olympic dataset from [Kaggle / official Olympic sources] (replace with actual source if available)
-- Contains athlete details, sports, events, medals, countries, and years
 
-## 🔍 Key Insights & Visualizations
-- *Total medals by countries* (Gold, Silver, Bronze, Total)
-- *Year-wise Olympic participation and medals trend*
-- *Top-performing athletes and sports*
-- *Country-wise dominance in specific sports*
-- *Interactive filters* by Year, Sport, Country, and Medal Type
+- Olympic-Athletes.xlsx: Contains athlete records, countries, events, medals, and Olympic year details.
+- Data source is from a publicly available dataset on [Kaggle / official Olympic sources].
 
-## 🛠️ Tools Used
+---
+
+## 🔍 Key Insights & Features
+
+- Total medal tally by country (Gold, Silver, Bronze, Total)
+- Year-wise trends in participation and medal wins
+- Top-performing athletes and sports categories
+- Dynamic filtering by year, country, sport, and medal type
+
+---
+
+## 🛠️ Tools & Technologies Used
+
 - Microsoft Power BI
-- Microsoft Excel (for preprocessing)
-- DAX (Data Analysis Expressions)
-- Power Query (for data transformation)
+- Microsoft Excel
+- Power Query for data cleaning and transformation
+- DAX (Data Analysis Expressions) for calculated measures
 
-## 🖼️ Screenshots
-> (Make sure to upload your screenshot images to the repo and use the same filename)
-
-![Olympics Dashboard Screenshot](screenshot1.png)
+---
 
 ## 📁 Files Included
-- Olympics_Dashboard.pbix: Power BI dashboard file
-- Olympics_Dataset.csv: Dataset used for building the dashboard
-- README.md: Project documentation
+
+- Olympics Project.pbix: Power BI dashboard with interactive visuals and DAX measures
+- Olympic-Athletes.xlsx: Dataset containing athlete and medal data
+- README.md: Project overview and documentation
+
+> ⚠️ Note: .pbix and .xlsx files are binary and cannot be previewed directly on GitHub. Please download them to open in Power BI or Excel.
+
+---
+
+## 🖼️ Dashboard Preview
+
+Here are sample pages from the Olympics Power BI Dashboard:
+
+### 📊 Page 1 – Overview / Medal Stats
+![Dashboard Page 1](Olympics_Dashboard_Page_1.PNG)
+
+### 🌍 Page 2 – Country-wise Performance
+![Dashboard Page 2](Olympics_Dashboard_Page_2.PNG)
+
+### 🏃 Page 3 – Top Athletes & Sports
+![Dashboard Page 3](Olympics_Dashboard_Page_3.PNG)
+
+### ⚥ Page 4 – Gender Participation Over the Years
+![Dashboard Page 4](Olympics_Dashboard_Page_4.PNG)
+
+### 🎯 Page 5 – Filters by Year, Country, and Medal Type
+![Dashboard Page 5](Olympics_Dashboard_Page_5.PNG)
+
+---
 
 ## 📬 Contact
-Created by Rohit Sawant – Feel free to reach out for suggestions or collaboration!
+
+Created by *Rohit Sawant*  
+Feel free to connect for feedback, suggestions, or collaboration on future data projects.
