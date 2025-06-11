@@ -47,19 +47,19 @@ The primary goal of this project is to demonstrate how raw sports data can be tr
 
 Here are sample pages from the Olympics Power BI Dashboard:
 
-### 📊 Page 1 – Overview / Medal Stats
+### 📊 Page 1 
 ![Dashboard Page 1](Olympics_Dashboard_Page_1.PNG)
 
-### 🌍 Page 2 – Country-wise Performance
+### 🌍 Page 2 
 ![Dashboard Page 2](Olympics_Dashboard_Page_2.PNG)
 
-### 🏃 Page 3 – Top Athletes & Sports
+### 🏃 Page 3 
 ![Dashboard Page 3](Olympics_Dashboard_Page_3.PNG)
 
-### ⚥ Page 4 – Gender Participation Over the Years
+### ⚥ Page 4 
 ![Dashboard Page 4](Olympics_Dashboard_Page_4.PNG)
 
-### 🎯 Page 5 – Filters by Year, Country, and Medal Type
+### 🎯 Page 5 
 ![Dashboard Page 5](Olympics_Dashboard_Page_5.PNG)
 
 ---
